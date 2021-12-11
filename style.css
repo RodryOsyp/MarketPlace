@@ -1,0 +1,11 @@
+#grib{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.item{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
