@@ -16,12 +16,20 @@ xhr.onload = function(){
         <img width="250px" src =  '${products[0].photo_url}'>
         <h2>price:${products[0].price}</h2>
       </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1169dad8c114401747bb46930c59eabd95a0068e
       <div class="item">
       <h2>${products[1].name}</h2>
       <h2>description:${products[1].description}</h2>
       <img width="250px" src =  '${products[1].photo_url}'>
       <h2>price:${products[1].price}</h2>
       </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1169dad8c114401747bb46930c59eabd95a0068e
       <div class="item">
       <h2>${products[2].name}</h2>
       <h2>description:${products[2].description}</h2>
@@ -29,4 +37,11 @@ xhr.onload = function(){
       <h2>price:${products[2].price}</h2>
       </div>
       `
+<<<<<<< HEAD
 }
+=======
+}
+
+
+    
+>>>>>>> 1169dad8c114401747bb46930c59eabd95a0068e
